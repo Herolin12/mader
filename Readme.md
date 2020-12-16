@@ -20,4 +20,4 @@ When using MADER, please cite this paper ([preprint](https://arxiv.org/abs/2010.
 
 ![](./mader/imgs/octopus_search.png) 
 
-The code will be released after publication
+The code will be released after publication.
